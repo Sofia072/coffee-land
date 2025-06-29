@@ -20,17 +20,6 @@ Welcome to **Coffee Land**, a modern, stylish, and atmospheric landing page craf
 
 ---
 
-## 📸 Image Suggestions
-
-You can use these beautiful, free-to-use coffee-related images or replace them with your own:
-
-- ![Hero Image](https://ibb.co/Mq7sYhB)
-- ![Coffee Beans](https://ibb.co/ksn8HhkH)
-- ![Latte Art](https://ibb.co/rfKtWQXC)
-- ![Modern Coffee Shop](https://ibb.co/pjDXHx43)
-
----
-
 ## 🛠️ Built With
 
 - **HTML5** – structure  
